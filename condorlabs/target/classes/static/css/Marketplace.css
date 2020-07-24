@@ -1,0 +1,11 @@
+.mp-featured .card {
+    height: 100%;
+}
+
+.mp-featured .card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.currency:before{ content:'$'; }
+.currency:after{ content: '.00'; }
